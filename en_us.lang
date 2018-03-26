@@ -1,0 +1,21 @@
+
+#Test
+item.item_test.name=Test Item
+block.block_test.name=Test Block
+tile.block_test.name=Test Block(Tile)
+
+#Items
+item.gem_ruby.name=Ruby
+item.ingot_obsidian.name=Obsidian Ingot
+
+#Blocks
+block.block_ruby.name=Block of Ruby
+block.block_obsidian_ingot.name=Block of Obsidian
+
+#Tiles
+tile.block_ruby.name=Block of Ruby
+tile.block_obsidian_ingot=Block of Obsidian(Tile)
+
+#Creative Tabs
+itemGroup.fluxtab=FluX Mod Blocks
+itemGroup.fluxtab2= FluX Mod Items
